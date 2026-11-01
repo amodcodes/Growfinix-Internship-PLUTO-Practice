@@ -34,7 +34,7 @@ Power Query’s full-dataset profile showed zero conversion errors for the numer
 This upload folder contains:
 
 - `README.md` — project scope, method, observed results, and limitations
-- `evidence/PLUTO_workbook_evidence.png` — the student-provided workbook screenshot
+- `PLUTO_workbook_evidence.png` — the student-provided workbook screenshot
 
 The workbook file is not included in this prepared folder, so this repository snapshot is not fully reproducible yet. Add the actual saved workbook only if you can verify it is the correct file, remove private local paths if present, and keep it below GitHub’s browser upload limit. The original CSV is about 453 MB and is intentionally omitted; link to the official source instead.
 
